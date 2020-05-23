@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8243e13c-a0e6-45c1-a11c-459855aedb5d" version="1">
+  <Properties>
+    <Name>Desert Forest and Marsh</Name>
+    <Description>Enables the Forest and Marsh features on Desert tiles.</Description>
+    <Created>1590198018</Created>
+    <Teaser>Enables the Forest and Marsh features on Desert tiles.</Teaser>
+    <Authors>SailorCat</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>Defines.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Defines.sql</File>
+  </Files>
+</Mod>
